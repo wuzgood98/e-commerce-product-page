@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [E-commerce product page main](https://github.com/wuzgood98/e-commerce-product-page)
-- Live Site URL: [E-commerce product page main](https://wuzgood98.github.io/e-commerce-product-page/)
+- Solution URL: [E-commerce product page](https://github.com/wuzgood98/e-commerce-product-page)
+- Live Site URL: [E-commerce product page](https://wuzgood98.github.io/e-commerce-product-page/)
 
 ## My process
 
