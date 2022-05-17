@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [E-commerce product page main](https://github.com/wuzgood98/e-commerce-product-page)
+- Live Site URL: [E-commerce product page main](https://wuzgood98.github.io/e-commerce-product-page/)
 
 ## My process
 
